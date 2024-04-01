@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 1,
+        "username":"Bob",
+        "user_email":"bob@email.com",
+        "user_status":0
+    },
+    {
+        "user_id": 2,
+        "username":"Job",
+        "user_email":"Job@email.com",
+        "user_status":1
+    },
+    {
+        "user_id": 3,
+        "username":"Dob",
+        "user_email":"dob@email.com",
+        "user_status":0
+    },
+    {
+        "user_id": 4,
+        "username":"Cob",
+        "user_email":"cob@email.com",
+        "user_status":1
+    }
+]
